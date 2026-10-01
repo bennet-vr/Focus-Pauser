@@ -16,27 +16,6 @@ It uses a webcam to estimate whether the user is focused, looking away, or blink
 
 ---
 
-## 📸 Screenshots
-
-### Live Camera
-
-![FocusPauser Live Camera](screenshots/live-camera.png)
-
-### Analytics Dashboard
-
-![FocusPauser Analytics](screenshots/analytics.png)
-
-### Health & Break Protection
-
-![FocusPauser Health](screenshots/health.png)
-
-### Settings
-
-![FocusPauser Settings](screenshots/settings.png)
-
-> Add the corresponding screenshots to the `screenshots/` folder before publishing.
-
----
 
 ## 🎬 Demo
 
