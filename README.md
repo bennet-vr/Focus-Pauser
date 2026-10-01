@@ -340,18 +340,12 @@ python main.py
 ```text
 FocusPauser/
 │
-├── main.py
+├── FocusPauser.py
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
 ├── LICENSE
-├── demo.gif
-│
-└── screenshots/
-    ├── live-camera.png
-    ├── analytics.png
-    ├── health.png
-    └── settings.png
+
 ```
 
 ---
@@ -468,7 +462,7 @@ See [`LICENSE`](LICENSE) for the full license text.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Bennet Varghese Reji**
 
 B.Tech Computer Science & Engineering
 
